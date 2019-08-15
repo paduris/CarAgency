@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>car.agency</OriginalElement>
+  <nodes>
+    <node x="0.0" y="233.0">car.agency.Ford</node>
+    <node x="0.0" y="534.0">car.agency.Feature</node>
+    <node x="241.0" y="233.0">car.agency.Honda</node>
+    <node x="313.0" y="328.0">car.agency.Dealership</node>
+    <node x="120.5" y="0.0">car.agency.Vehicle</node>
+    <node x="0.0" y="328.0">car.agency.Package</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="car.agency.Ford" target="car.agency.Vehicle">
+      <point x="0.0" y="-25.0" />
+      <point x="110.5" y="208.0" />
+      <point x="175.75" y="208.0" />
+      <point x="-55.25" y="91.5" />
+    </edge>
+    <edge source="car.agency.Honda" target="car.agency.Vehicle">
+      <point x="0.0" y="-25.0" />
+      <point x="351.5" y="208.0" />
+      <point x="286.25" y="208.0" />
+      <point x="55.25" y="91.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="117.5" y="315.5" />
+  <SelectedNodes>
+    <node>car.agency.Ford</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
